@@ -1,0 +1,15 @@
+h1{
+color:blue;
+padding : 6px;
+}
+.divlogin{
+   background-color:red;
+   color:black;
+   border-radius:25px;
+}
+body{
+	background-color:skyblue;
+	text-align:center;
+	font-family:arial;
+}
+
